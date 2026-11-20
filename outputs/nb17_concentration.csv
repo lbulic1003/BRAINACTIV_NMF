@@ -1,0 +1,11 @@
+basis,component,features_to_50pct,channels_to_50pct,features_to_80pct,channels_to_80pct,features_to_90pct,channels_to_90pct
+NMF,comp_1,85,5,166,8,205,10
+NMF,comp_2,75,6,156,10,197,12
+NMF,comp_3,84,4,173,8,218,10
+NMF,comp_4,94,6,183,10,229,12
+NMF,comp_5,84,7,164,11,212,13
+PCA,PC1,154,7,261,12,302,13
+PCA,PC2,105,7,199,11,247,13
+PCA,PC3,90,7,185,11,234,13
+PCA,PC4,85,4,170,9,218,11
+PCA,PC5,89,5,182,10,230,12
